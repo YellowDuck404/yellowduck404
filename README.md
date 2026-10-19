@@ -20,6 +20,7 @@ I’m currently learning about LLMs, MCPs, Knowledge Graphs, and whatever sparks
 Right now, that looks like:
 
 - **AI, LLMs and agentic workflows** — exploring practical ways to work with AI: prompting, context, tool use, MCPs and small AI-assisted applications.
+  - [DIY-Knitting](https://github.com/YellowDuck404/creative-diy/blob/main/knitting/blanket-01-windowsill/COLLABORATION.md)
 - **Knowledge graphs and Neo4j** — connecting my background in data modelling and financial-crime analysis with graph thinking, Cypher and relationship-based questions.
 - **Personal knowledge and retrieval** — co-designing a Personal Knowledge Engine around a simple question: how can information be captured, found again and trusted when it matters?
 - **Requirements and information design** — experimenting with visual requirements management, data dictionaries and clearer ways for people and AI systems to share context.
